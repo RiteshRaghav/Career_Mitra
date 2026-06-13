@@ -4,7 +4,7 @@
 
 🔗 **Live Demo:** [carrier-1-0-3.onrender.com](https://carrier-1-0-3.onrender.com)
 &nbsp;&nbsp;|&nbsp;&nbsp;
-📁 **GitHub:** [github.com/RiteshRaghav/Carrier_1.0](https://github.com/RiteshRaghav/Carrier_Mitra)
+📁 **GitHub:** [github.com/RiteshRaghav/Carrier_Mitra](https://github.com/RiteshRaghav/Carrier_Mitra)
 
 ---
 
